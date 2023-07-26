@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there👋
+
+About me,
+* Highly accomplished radar design and software development **Electronic engineer**.
+* Track record of success in developing libraries for signal processing and designing acquisition radars systems
+* Research engineer with extensive knowledge in engineering principles, project leadership, and application research apply within government institutions.
+
+- 🔭 I’m currently working on Jicarmarca Radio Observatory as Radar Specialist.
+- 🌱 I’m currently learning WebDevelopment.
 
 <!--
 **sebastianVP/sebastianVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
