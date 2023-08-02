@@ -13,7 +13,7 @@ About me,
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianVP&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianVP&show_icons=true&theme=dark&layout=compact&langs_count=8&card_width=325" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianVP&show_icons=true&theme=dark&layout=compact&langs_count=8&card_width=330" />
 </a>
 <!--
 **sebastianVP/sebastianVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
