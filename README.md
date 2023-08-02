@@ -1,4 +1,4 @@
-### Hi there👋
+### Hi, I'm Alexander AKA The Magic 👋
 
 About me,
 * Highly accomplished radar design and software development **Electronic engineer**.
