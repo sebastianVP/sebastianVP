@@ -8,6 +8,10 @@ About me,
 - 🔭 I’m currently working on Jicarmarca Radio Observatory as Radar Specialist.
 - 🌱 I’m currently learning WebDevelopment.
 
+
+[![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianVP)](https://github.com/sebastian/github-readme-stats)
+
+
 <!--
 **sebastianVP/sebastianVP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
