@@ -1,3 +1,4 @@
+![alt text](https://github.com/sebastianVP/sebastianVP/blob/main/pic_test.jpeg?raw=true)
 ### Hi, I'm Alexander AKA The Magic 👋
 
 About me,
