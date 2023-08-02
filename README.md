@@ -9,7 +9,8 @@ About me,
 - 🌱 I’m currently learning WebDevelopment.
 
 
-[![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianVP)](https://github.com/sebastian/github-readme-stats)
+[![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastianVP)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianVP)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
