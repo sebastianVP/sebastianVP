@@ -1,4 +1,7 @@
+<!---
 ![alt text](https://github.com/sebastianVP/sebastianVP/blob/main/pic_test.jpeg?raw=true)
+-->
+<img src="https://github.com/sebastianVP/sebastianVP/blob/main/pic_test.jpeg" style=" width:"400px ; height:280px"/>
 ### Hi, I'm Alexander AKA The Magic 👋
 
 About me,
