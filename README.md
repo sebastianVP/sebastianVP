@@ -2,7 +2,7 @@
 ![alt text](https://github.com/sebastianVP/sebastianVP/blob/main/pic_test.jpeg?raw=true)
 <img src="pic_test.jpeg" width="600" />
 -->
-<img src="alex_test.jpg" />
+<img src="alex_test.jpg height=300" />
 
 ### Hi, I'm Alexander AKA The Magic 👋
 
