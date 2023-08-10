@@ -18,7 +18,7 @@ About me,
 #### Social Media ####
 ***
 * [LinkedIn](https://www.linkedin.com/in/avaldezp/)
-* [Resume_App](https://avpresume-7qretxfih6bnejjtxcvhdr.streamlit.app/)
+* [Resume_app](https://avpresume-7qretxfih6bnejjtxcvhdr.streamlit.app/)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
