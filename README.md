@@ -15,7 +15,7 @@ About me,
 - 🔭 I’m currently working on Jicarmarca Radio Observatory as Radar Specialist.
 - 🌱 I’m currently learning WebDevelopment.
 
-####Social Media
+#### Social Media
 ***
 * [LinkedIn]('https://www.linkedin.com/in/avaldezp/')
 * [Resume_App]('https://avpresume-7qretxfih6bnejjtxcvhdr.streamlit.app/')
