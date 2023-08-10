@@ -15,6 +15,11 @@ About me,
 - 🔭 I’m currently working on Jicarmarca Radio Observatory as Radar Specialist.
 - 🌱 I’m currently learning WebDevelopment.
 
+
+[LinkedIn]('https://www.linkedin.com/in/avaldezp/')
+[Resume-App]('https://avpresume-7qretxfih6bnejjtxcvhdr.streamlit.app/')
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianVP&show_icons=true&theme=dark" />
 </a>
